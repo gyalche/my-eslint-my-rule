@@ -1,0 +1,6 @@
+# dotenv environment variables file
+.env
+dist/
+node_modules
+storybook-static/
+.DS_Store
