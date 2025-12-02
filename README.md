@@ -50,10 +50,6 @@ Create an `.eslintrc.json` file in your project root:
 - Adds stylistic rules for consistency
 - Supports custom global variables
 
-## Contributing
-
-Contributions are welcome! Please submit an issue or pull request in the [GitHub repository](https://github.com/sherpa-dawa/eslint-config-myconfig).
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
